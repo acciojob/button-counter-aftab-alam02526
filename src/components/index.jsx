@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-funtion clickCounter{
+funtion clickCounter () {
   const [count, setCount] = useState(0);
 
   return(
