@@ -1,7 +1,7 @@
 
 import React from "react";
 import './../styles/App.css';
-import clickCounter from "./components/index.jsx";
+import clickCounter from "../components";
 const App = () => {
   return (
     <div>
