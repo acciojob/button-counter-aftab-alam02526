@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function clickCounter () {
+function ClickCounter () {
   const [count, setCount] = useState(0);
 
   return(
@@ -11,4 +11,4 @@ function clickCounter () {
     );
 }
 
-export default clickCounter;
+export default ClickCounter;
