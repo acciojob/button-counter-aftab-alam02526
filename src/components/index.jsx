@@ -5,7 +5,7 @@ function clickCounter () {
 
   return(
     <div>
-      <p> Button clicked {count} times</p>
+       <p>Button clicked {count} times</p>
       <button onClick = {() => setCount(count + 1)} > CLick me </button>
     </div>
     );
